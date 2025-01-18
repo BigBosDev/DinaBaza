@@ -6,7 +6,8 @@
   "scripts": {
     "test": "dev",
     "start": "node ./src/index.js",
-    "dev": "nodemon ./src/index.js"
+    "dev": "nodemon ./src/index.js",
+    "build": "your-build-command"
   },
   "keywords": [
     "express"
